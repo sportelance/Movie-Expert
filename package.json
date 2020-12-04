@@ -17,6 +17,8 @@
     "express": "^4.17.1",
     "express-graphql": "^0.11.0",
     "graphql": "^15.3.0",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.10.13",
     "pg": "^8.4.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
